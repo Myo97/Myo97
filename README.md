@@ -11,8 +11,7 @@
 
 - 📫 How to reach me **https://www.facebook.com/ShadOw.1997.mtn/**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Myo97)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Myo97&show_icons=true&theme=tokyonight)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
