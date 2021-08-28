@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **laravel, fornt-end preparation.**
 
-- 📫 How to reach me **https://www.facebook.com/ShadOw.1997.mtn/**
+- 📫 How to reach me **Just click on FB Icon below.**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Myo97&show_icons=true&theme=tokyonight)
 
